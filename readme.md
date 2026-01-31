@@ -1,6 +1,6 @@
-# Metronisys-Website – Metronisys™
+# Metronisys-Certification – Metronisys™
 
-Metronisys website assets.
+Metronisys certification overview.
 
 **Metronisys™** is a trademark of John A. Nudd.  
 Commercial use of the name requires permission.  

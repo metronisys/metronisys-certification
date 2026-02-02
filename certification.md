@@ -100,6 +100,15 @@ All certification levels are assessed against the following domains:
 
 ---
 
+| Capability | Required for Certification |
+|----------|---------------------------|
+| Human escalation | **Mandatory** |
+| Budget enforcement | **Mandatory** |
+| Tool call auditability | **Mandatory** |
+| Cross-agent delegation integrity | Mandatory |
+
+---
+
 ## 5. Evidence & Artefacts
 
 Certification assessments may require:
